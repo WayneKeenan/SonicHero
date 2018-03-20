@@ -50,7 +50,7 @@ You may have to repeat the above if you find you can't connect in the future.
 
 ## Running
 
-On the Pi desktop launch SonicPi and past in the constest of the [sonicpi_example.rb](sonicpi_example.rb) script.
+On the Pi desktop launch SonicPi and paste in the contents of the [sonicpi_example.rb](sonicpi_example.rb) script and press `Run` in the GUI.
 
 In a terminal on the Pi run:
 
